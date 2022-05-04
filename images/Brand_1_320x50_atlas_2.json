@@ -1,0 +1,67 @@
+﻿{"frames": {
+
+"CachedBmp_2":
+{
+	"frame": {"x":384,"y":30,"w":98,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":28},
+	"sourceSize": {"w":98,"h":28}
+},
+"CachedBmp_3":
+{
+	"frame": {"x":0,"y":138,"w":130,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":28},
+	"sourceSize": {"w":130,"h":28}
+},
+"CachedBmp_4":
+{
+	"frame": {"x":384,"y":0,"w":98,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":28},
+	"sourceSize": {"w":98,"h":28}
+},
+"CachedBmp_5":
+{
+	"frame": {"x":322,"y":114,"w":176,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":26},
+	"sourceSize": {"w":176,"h":26}
+},
+"CachedBmp_6":
+{
+	"frame": {"x":322,"y":86,"w":176,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":26},
+	"sourceSize": {"w":176,"h":26}
+},
+"CachedBmp_7":
+{
+	"frame": {"x":0,"y":0,"w":382,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":382,"h":84},
+	"sourceSize": {"w":382,"h":84}
+},
+"_320x50_gears_bg":
+{
+	"frame": {"x":0,"y":86,"w":320,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":50},
+	"sourceSize": {"w":320,"h":50}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.5.191",
+	"image": "Brand_1_320x50_atlas_2.png",
+	"format": "undefined",
+	"size": {"w":512,"h":256},
+	"scale": "1"
+}
+}
